@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenyubo1982&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
+
+
+[![Shenyubo's github activity graph](https://activity-graph.herokuapp.com/graph?username=1982)](https://github.com/shenyubo1982/github-readme-activity-graph)
