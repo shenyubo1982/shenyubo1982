@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 <span>  </span>
 </div>
 
-
-[![Shenyubo's github activity graph](https://activity-graph.herokuapp.com/graph?username=1982)](https://github.com/shenyubo1982/github-readme-activity-graph)
