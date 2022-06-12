@@ -22,6 +22,12 @@ BIO
 - 📫 Reach me: twitter.com/SHENYUBOBO
 - 🧠 I'm learning about **ethereum** and **golang**.
 
+[![Author](https://img.shields.io/badge/Author-shenyubo-blue "Author")](https://github.com/shenyubo1982 "Author")
+[![Years Badge](https://badges.pufler.dev/years/shenyubo1982)](https://github.com/shenyubo1982)
+[![Visits Badge](https://badges.pufler.dev/visits/shenyubo1982/ethDemo)](https://badges.pufler.dev/visits/shenyubo1982/ethDemo)
+
+
+
 
 <!--
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=shenyubo1982)]()
