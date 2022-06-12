@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyubo1982&show_icons=true&theme=onedark)](https://github.com/shenyubo1982)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shenyubo1982&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+
 ### NOW
 - ✨ Learning ethereum. 
 - 🇨🇳 Planing the **chain automated testing Tools**
