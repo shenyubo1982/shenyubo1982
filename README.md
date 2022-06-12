@@ -29,5 +29,7 @@ BIO
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyubo1982&show_icons=true&theme=onedark)
 
+**Now Develop on**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shenyubo1982&repo=ethDemo)](https://github.com/shenyubo1982/ethDemo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenyubo1982&hide=javascript,html)](https://github.com/shenyubo1982/ethDemo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenyubo1982&layout=compact&hide=javascript,html)](https://github.com/shenyubo1982/ethDemo)
