@@ -28,8 +28,5 @@ BIO
 [![Repos Badge](https://badges.pufler.dev/repos/shenyubo1982)](https://github.com/shenyubo1982)
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyubo1982&show_icons=true&theme=onedark)
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shenyubo1982&repo=github-readme-stats)](https://github.com/shenyubo1982/github-readme-stats)
