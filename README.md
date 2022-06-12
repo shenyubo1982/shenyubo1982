@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 ### BIO
 - 🔭 I’m currently work on Agile Coach.
 - 🌱 I'm a project manger 💼,but i like coding 👨🏻‍💻 .
-- 📫 Reach me: twitter.com/SHENYUBOBO
-- 🧠 I'm learning about **ethereum** and **golang**.
+- 🧠 I'm learning about **web3**.
+
+[![Reach me](https://s2.loli.net/2022/06/12/vQyDIuP9HUq4p3R.png)](https://twitter.com/SHENYUBOBO)
+
+
 
 [![Author](https://img.shields.io/badge/Author-shenyubo-blue "Author")](https://github.com/shenyubo1982 "Author")
 [![Years Badge](https://badges.pufler.dev/years/shenyubo1982)](https://github.com/shenyubo1982)
