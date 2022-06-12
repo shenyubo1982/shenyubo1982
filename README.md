@@ -42,5 +42,12 @@ Here are some ideas to get you started:
 
 ### Waka
 <!--START_SECTION:waka-->
+
+```text
+VimL        17 mins         ██████████░░░░░░░░░░░░░░░   40.54 %
+Python      11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+Other       10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+```
+
 <!--END_SECTION:waka-->
 
