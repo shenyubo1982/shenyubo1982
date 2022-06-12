@@ -11,10 +11,16 @@
 
 Here are some ideas to get you started:
 -->
+
+NOW
+- ✨ Learning ethereum. 
+- 🇨🇳 Planing the [chain automated testing Tools]
+
+BIO
 - 🔭 I’m currently work on Agile Coach.
 - 🌱 I'm a project manger 💼,but i like coding 👨🏻‍💻 .
-- 📫 https://twitter.com/SHENYUBOBO
-- 🧠 I'm learning ethereum and golang
+- 📫 Reach me: twitter.com/SHENYUBOBO
+- 🧠 I'm learning about **ethereum** and **golang**.
 
 
 <!--
