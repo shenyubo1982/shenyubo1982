@@ -11,8 +11,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Agile Coach
-- 🌱 project manger 💼,but i like coding 👨🏻‍💻 .
+- 🔭 I’m currently work on Agile Coach.
+- 🌱 I'm a project manger 💼,but i like coding 👨🏻‍💻 .
 - 📫 https://twitter.com/SHENYUBOBO
 - 🧠 I'm learning ethereum and golang
 
