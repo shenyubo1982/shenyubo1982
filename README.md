@@ -25,18 +25,11 @@ BIO
 [![Author](https://img.shields.io/badge/Author-shenyubo-blue "Author")](https://github.com/shenyubo1982 "Author")
 [![Years Badge](https://badges.pufler.dev/years/shenyubo1982)](https://github.com/shenyubo1982)
 [![Visits Badge](https://badges.pufler.dev/visits/shenyubo1982/ethDemo)](https://badges.pufler.dev/visits/shenyubo1982/ethDemo)
+[![Repos Badge](https://badges.pufler.dev/repos/shenyubo1982)](https://github.com/shenyubo1982)
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyubo1982&show_icons=true&theme=onedark)
 
-<!--
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=shenyubo1982)]()
--->
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=shenyubo1982" />
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenyubo1982&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
+
 
