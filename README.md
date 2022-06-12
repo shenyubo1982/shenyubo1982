@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 NOW
 - ✨ Learning ethereum. 
-- 🇨🇳 Planing the [chain automated testing Tools]
+- 🇨🇳 Planing the **chain automated testing Tools**
 
 BIO
 - 🔭 I’m currently work on Agile Coach.
