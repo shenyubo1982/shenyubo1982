@@ -27,6 +27,7 @@ BIO
 [![Visits Badge](https://badges.pufler.dev/visits/shenyubo1982/ethDemo)](https://badges.pufler.dev/visits/shenyubo1982/ethDemo)
 [![Repos Badge](https://badges.pufler.dev/repos/shenyubo1982)](https://github.com/shenyubo1982)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyubo1982&show_icons=true&theme=onedark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shenyubo1982&repo=github-readme-stats)](https://github.com/shenyubo1982/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shenyubo1982&repo=ethDemo)](https://github.com/shenyubo1982/ethDemo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenyubo1982&hide=javascript,html)](https://github.com/shenyubo1982/ethDemo)
