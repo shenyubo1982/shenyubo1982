@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 - ✨ Learning ethereum. 
 - 🇨🇳 Planing the **chain automated testing Tools**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shenyubo1982&repo=ethDemo&theme=onedark)](https://github.com/shenyubo1982/ethDemo) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenyubo1982&layout=compact&hide=javascript,html&theme=onedark)](https://github.com/shenyubo1982/ethDemo) 
-
+<a href="https://github.com/shenyubo1982/ethDemo" target="_blank">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=shenyubo1982&repo=ethDemo&theme=onedark" />
+</a>
+<a href="https://github.com/shenyubo1982/ethDemo" target="_blank">
+ <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenyubo1982&layout=compact&hide=javascript,html&theme=onedark" />
+</a>
 
 <!--START_SECTION:waka-->
 
