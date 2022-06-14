@@ -46,11 +46,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
-VimL        17 mins         ██████████░░░░░░░░░░░░░░░   40.54 %
-Python      11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
-Other       10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+Go             4 hrs 52 mins   ███████████████▒░░░░░░░░░   61.28 %
+Other          1 hr 49 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
 ```
 
 <!--END_SECTION:waka-->
