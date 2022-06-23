@@ -46,14 +46,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2022 - To: 21 June 2022
+From: 15 June 2022 - To: 22 June 2022
 
-Bash         58 mins         ██████████░░░░░░░░░░░░░░░   39.95 %
-SQL          42 mins         ███████▒░░░░░░░░░░░░░░░░░   28.96 %
-Go           29 mins         █████░░░░░░░░░░░░░░░░░░░░   19.95 %
-Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-conf         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-sshconfig    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other       16 hrs 50 mins  ██████████████████████▒░░   89.94 %
 ```
 
 <!--END_SECTION:waka-->
