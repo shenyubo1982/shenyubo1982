@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 June 2022 - To: 06 July 2022
+From: 30 June 2022 - To: 07 July 2022
 
-Other       29 hrs 16 mins  ████████████████████▒░░░░   81.97 %
+Other            33 hrs 23 mins  █████████████████████▒░░░   85.14 %
 ```
 
 <!--END_SECTION:waka-->
