@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 [![Reach me](https://s2.loli.net/2022/06/12/vQyDIuP9HUq4p3R.png)](https://twitter.com/SHENYUBOBO)
 
-![](https://komarev.com/ghpvc/?username=shenyubo1982)
 
 
 [![Author](https://img.shields.io/badge/Author-shenyubo-blue "Author")](https://github.com/shenyubo1982 "Author")
 [![Years Badge](https://badges.pufler.dev/years/shenyubo1982)](https://github.com/shenyubo1982)
-[![Visits Badge](https://badges.pufler.dev/visits/shenyubo1982/shenyubo1982)](https://badges.pufler.dev/visits/shenyubo1982/shenyubo1982)
+![](https://komarev.com/ghpvc/?username=shenyubo1982&color=yellow)
 [![Repos Badge](https://badges.pufler.dev/repos/shenyubo1982)](https://github.com/shenyubo1982)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyubo1982&show_icons=true&theme=onedark)](https://github.com/shenyubo1982)
