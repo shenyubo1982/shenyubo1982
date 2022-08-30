@@ -44,7 +44,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 August 2022 - To: 29 August 2022
+
+Bash     45 mins         ████████████████░░░░░░░░░   64.60 %
+Python   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+YAML     11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
 ```
 
 <!--END_SECTION:waka-->
