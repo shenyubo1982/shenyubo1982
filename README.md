@@ -44,11 +44,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 29 August 2022
+From: 23 August 2022 - To: 30 August 2022
 
-Bash     45 mins         ████████████████░░░░░░░░░   64.60 %
-Python   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-YAML     11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Python           1 hr 23 mins    ██████████▒░░░░░░░░░░░░░░   41.29 %
+Bash             45 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+HTML             31 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+JSON             16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+YAML             11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Jupyter          8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
