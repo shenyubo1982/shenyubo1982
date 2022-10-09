@@ -44,7 +44,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 October 2022 - To: 08 October 2022
+
+Python         5 mins          █████████████░░░░░░░░░░░░   51.61 %
+sshconfig      2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
+Bash           1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Shell Script   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Other          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
