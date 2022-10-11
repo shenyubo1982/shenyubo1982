@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 09 October 2022
+From: 03 October 2022 - To: 10 October 2022
 
-Python         9 mins          ██████████████▓░░░░░░░░░░   58.03 %
-sshconfig      2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-Bash           2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-Shell Script   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Other          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Python         9 mins          █████████████░░░░░░░░░░░░   52.35 %
+sshconfig      4 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
+Bash           2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Shell Script   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Other          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
