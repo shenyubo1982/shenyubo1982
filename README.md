@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 November 2022 - To: 10 November 2022
+From: 04 November 2022 - To: 11 November 2022
 
-Other   36 hrs 32 mins  █████████████████████████   100.00 %
+Other   32 hrs 51 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
