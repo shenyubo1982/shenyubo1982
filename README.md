@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 January 2023 - To: 09 January 2023
+From: 03 January 2023 - To: 10 January 2023
 
-Other          47 hrs 53 mins  ████████████████████████▒   96.95 %
+Other        45 hrs 22 mins  ████████████████████████▓   98.28 %
 ```
 
 <!--END_SECTION:waka-->
