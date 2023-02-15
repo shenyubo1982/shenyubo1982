@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-JavaScript   9 mins          ███████████████████████▓░   94.26 %
-Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-netrw        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   3 mins          █████████████████████▒░░░   85.26 %
+Markdown     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+netrw        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
