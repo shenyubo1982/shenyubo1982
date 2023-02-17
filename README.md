@@ -44,11 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 15 February 2023
+From: 09 February 2023 - To: 16 February 2023
 
-Markdown   0 secs          ██████████████████▓░░░░░░   75.14 %
-netrw      0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
