@@ -44,11 +44,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2023 - To: 28 March 2023
+From: 22 March 2023 - To: 29 March 2023
 
-Go             25 mins         ███████████████▒░░░░░░░░░   61.09 %
-Markdown       11 mins         ███████░░░░░░░░░░░░░░░░░░   27.82 %
-Other          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Other          27 mins         ██████████▒░░░░░░░░░░░░░░   41.57 %
 ```
 
 <!--END_SECTION:waka-->
