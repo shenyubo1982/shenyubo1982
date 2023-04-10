@@ -44,14 +44,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2023 - To: 08 April 2023
+From: 02 April 2023 - To: 09 April 2023
 
-Go             2 hrs           ███████████████████▒░░░░░   77.50 %
-gitignore      12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Bash           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Markdown       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-YAML           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Text           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Go          1 min           ███████████▓░░░░░░░░░░░░░   47.20 %
+Markdown    1 min           ███████▒░░░░░░░░░░░░░░░░░   29.34 %
+sshconfig   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+gitignore   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
 ```
 
 <!--END_SECTION:waka-->
