@@ -44,11 +44,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-Go               8 hrs 52 mins   ███████████████████████░░   92.24 %
-sshconfig        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Other            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Go               12 hrs 12 mins  ███████████████████████░░   91.67 %
+sshconfig        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+HTML             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Other            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
