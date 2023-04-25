@@ -44,11 +44,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 17 April 2023 - To: 24 April 2023
 
-Go               15 hrs 55 mins  █████████████████████░░░░   84.53 %
-YAML             58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Other            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Go               20 hrs 48 mins  █████████████████████▓░░░   86.09 %
+Other            1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 ```
 
 <!--END_SECTION:waka-->
