@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2023 - To: 19 May 2023
+From: 13 May 2023 - To: 20 May 2023
 
-Other   34 mins         ███████████████████▓░░░░░   78.50 %
-Bash    9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
+Other   30 mins         ███████████████████░░░░░░   76.47 %
+Bash    9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.53 %
 ```
 
 <!--END_SECTION:waka-->
