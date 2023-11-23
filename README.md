@@ -44,10 +44,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2023 - To: 19 November 2023
+From: 15 November 2023 - To: 22 November 2023
 
-JavaScript   2 hrs 3 mins    █████████████████████████   99.95 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python           6 hrs 41 mins   █████████████████████░░░░   83.93 %
+JavaScript       50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+HTML             23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+SQL              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
