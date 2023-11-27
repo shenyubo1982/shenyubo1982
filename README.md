@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2023 - To: 25 November 2023
+From: 19 November 2023 - To: 26 November 2023
 
 Python           6 hrs 41 mins   ███████████████████████▒░   93.75 %
 HTML             23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
