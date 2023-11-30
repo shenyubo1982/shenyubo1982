@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-Python           6 hrs 15 mins   ███████████████████████▒░   93.13 %
-HTML             23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-SQL              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python     8 mins          ██████████████████████▓░░   90.23 %
+Markdown   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
