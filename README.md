@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
 TOML        8 mins          ██████████████████░░░░░░░   71.83 %
 sshconfig   3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
