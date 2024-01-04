@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-TOML        8 mins          ███████████▓░░░░░░░░░░░░░   46.89 %
-Bash        5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.18 %
-sshconfig   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-Markdown    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Other       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+TOML        8 mins          ██████████▓░░░░░░░░░░░░░░   43.16 %
+Bash        6 mins          █████████░░░░░░░░░░░░░░░░   35.73 %
+sshconfig   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+Markdown    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Other       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
