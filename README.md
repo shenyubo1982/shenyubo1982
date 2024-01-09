@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
 Bash       6 mins          ██████████████████████▒░░   89.51 %
 Markdown   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
