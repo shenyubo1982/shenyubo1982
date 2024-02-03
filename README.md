@@ -44,12 +44,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2024 - To: 01 February 2024
+From: 26 January 2024 - To: 02 February 2024
 
-Python   3 hrs 31 mins   ███████████████████████░░   91.57 %
-SQL      15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-HTML     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   2 hrs 12 mins   █████████████████████████   100.00 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
