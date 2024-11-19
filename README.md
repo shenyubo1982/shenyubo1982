@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
 Bash   0 secs          █████████████████████████   100.00 %
 ```
